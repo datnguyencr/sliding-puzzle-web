@@ -1,0 +1,9 @@
+{ "dialog_resume_title": "Xác nhận",
+  "dialog_resume_message": "Tiếp tục thử thách xếp hình?",
+  "failed_generate_puzzle_message": "Không thể tạo trò chơi xếp hình có thể giải sau 100 lần thử",
+  "dialog_win_title": "Chúc mừng!",
+  "dialog_win_message": "Bạn đã giải thành công trò chơi xếp hình.",
+  "menu": "Menu",
+  "play_again": "Chơi lại",
+  "puzzle": "Trò chơi xếp hình"
+}

@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "確認",
+  "dialog_resume_message": "パズルチャレンジを再開しますか？",
+  "failed_generate_puzzle_message": "100回試行しても解けるパズルを生成できませんでした",
+  "dialog_win_title": "おめでとうございます！",
+  "dialog_win_message": "パズルを解きました。",
+  "menu": "メニュー",
+  "play_again": "もう一度遊ぶ",
+  "puzzle": "パズル"
+}

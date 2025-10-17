@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Confirmação",
+  "dialog_resume_message": "Deseja retomar o desafio do quebra-cabeça?",
+  "failed_generate_puzzle_message": "Falha ao gerar um quebra-cabeça solucionável após 100 tentativas",
+  "dialog_win_title": "Parabéns!",
+  "dialog_win_message": "Você resolveu o quebra-cabeça.",
+  "menu": "Menu",
+  "play_again": "Jogar novamente",
+  "puzzle": "Quebra-cabeça"
+}

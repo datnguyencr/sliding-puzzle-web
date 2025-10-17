@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Bestätigung",
+  "dialog_resume_message": "Möchten Sie Ihre Puzzle-Herausforderung fortsetzen?",
+  "failed_generate_puzzle_message": "Fehler beim Erstellen eines lösbaren Puzzles nach 100 Versuchen",
+  "dialog_win_title": "Herzlichen Glückwunsch!",
+  "dialog_win_message": "Sie haben das Puzzle gelöst.",
+  "menu": "Menü",
+  "play_again": "Nochmal spielen",
+  "puzzle": "Puzzle"
+}

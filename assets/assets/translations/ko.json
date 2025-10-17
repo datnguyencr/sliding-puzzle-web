@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "확인",
+  "dialog_resume_message": "퍼즐 도전을 다시 시작하시겠습니까?",
+  "failed_generate_puzzle_message": "100번 시도 후에도 해결 가능한 퍼즐을 생성하지 못했습니다",
+  "dialog_win_title": "축하합니다!",
+  "dialog_win_message": "퍼즐을 완성했습니다.",
+  "menu": "메뉴",
+  "play_again": "다시 플레이",
+  "puzzle": "퍼즐"
+}

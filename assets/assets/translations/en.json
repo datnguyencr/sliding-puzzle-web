@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Confirmation",
+  "dialog_resume_message": "Resume your puzzle challenge?",
+  "failed_generate_puzzle_message": "Failed to generate a solvable puzzle after 100 tries",
+  "dialog_win_title": "Congratulations!",
+  "dialog_win_message": "You solved the puzzle.",
+  "menu": "Menu",
+  "play_again": "Play Again",
+  "puzzle": "Puzzle"
+}

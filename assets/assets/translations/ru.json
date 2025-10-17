@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Подтверждение",
+  "dialog_resume_message": "Продолжить головоломку?",
+  "failed_generate_puzzle_message": "Не удалось сгенерировать решаемую головоломку после 100 попыток",
+  "dialog_win_title": "Поздравляем!",
+  "dialog_win_message": "Вы решили головоломку.",
+  "menu": "Меню",
+  "play_again": "Играть снова",
+  "puzzle": "Головоломка"
+}

@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Confirmación",
+  "dialog_resume_message": "¿Deseas reanudar tu desafío de rompecabezas?",
+  "failed_generate_puzzle_message": "No se pudo generar un rompecabezas solucionable después de 100 intentos",
+  "dialog_win_title": "¡Felicidades!",
+  "dialog_win_message": "Has resuelto el rompecabezas.",
+  "menu": "Menú",
+  "play_again": "Jugar de nuevo",
+  "puzzle": "Rompecabezas"
+}

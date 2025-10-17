@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "确认",
+  "dialog_resume_message": "要继续你的拼图挑战吗？",
+  "failed_generate_puzzle_message": "在尝试 100 次后仍未能生成可解的拼图",
+  "dialog_win_title": "恭喜！",
+  "dialog_win_message": "你完成了拼图。",
+  "menu": "菜单",
+  "play_again": "再玩一次",
+  "puzzle": "拼图"
+}

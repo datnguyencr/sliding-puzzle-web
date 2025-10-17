@@ -1,0 +1,10 @@
+{
+  "dialog_resume_title": "Confirmation",
+  "dialog_resume_message": "Reprendre votre défi de puzzle ?",
+  "failed_generate_puzzle_message": "Échec de la génération d’un puzzle résoluble après 100 essais",
+  "dialog_win_title": "Félicitations !",
+  "dialog_win_message": "Vous avez résolu le puzzle.",
+  "menu": "Menu",
+  "play_again": "Rejouer",
+  "puzzle": "Puzzle"
+}
