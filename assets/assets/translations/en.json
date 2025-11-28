@@ -1,4 +1,11 @@
 {
+  "statistics": "Statistics",
+  "total_games": "Total Games",
+  "average_time": "Average Time",
+  "fastest_time": "Fastest Time",
+  "slowest_time": "Slowest Time",
+  "games_by_board_size": "Games by Board Size",
+  "no_games_played": "No games played yet",
   "dialog_resume_title": "Confirmation",
   "dialog_resume_message": "Resume your puzzle challenge?",
   "failed_generate_puzzle_message": "Failed to generate a solvable puzzle after 100 tries",

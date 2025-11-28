@@ -1,4 +1,11 @@
 {
+  "statistics": "Statistiques",
+  "total_games": "Parties totales",
+  "average_time": "Temps moyen",
+  "fastest_time": "Temps le plus rapide",
+  "slowest_time": "Temps le plus lent",
+  "games_by_board_size": "Parties par taille de plateau",
+  "no_games_played": "Aucune partie jouée pour le moment",
   "dialog_resume_title": "Confirmation",
   "dialog_resume_message": "Reprendre votre défi de puzzle ?",
   "failed_generate_puzzle_message": "Échec de la génération d’un puzzle résoluble après 100 essais",

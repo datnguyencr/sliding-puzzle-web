@@ -1,4 +1,11 @@
 {
+  "statistics": "Statistiken",
+  "total_games": "Gesamtspiele",
+  "average_time": "Durchschnittszeit",
+  "fastest_time": "Schnellste Zeit",
+  "slowest_time": "Langsamste Zeit",
+  "games_by_board_size": "Spiele nach Brettgröße",
+  "no_games_played": "Noch keine Spiele gespielt",
   "dialog_resume_title": "Bestätigung",
   "dialog_resume_message": "Möchten Sie Ihre Puzzle-Herausforderung fortsetzen?",
   "failed_generate_puzzle_message": "Fehler beim Erstellen eines lösbaren Puzzles nach 100 Versuchen",

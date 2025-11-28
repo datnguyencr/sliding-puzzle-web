@@ -1,4 +1,11 @@
 {
+  "statistics": "통계",
+  "total_games": "총 게임 수",
+  "average_time": "평균 시간",
+  "fastest_time": "가장 빠른 시간",
+  "slowest_time": "가장 느린 시간",
+  "games_by_board_size": "보드 크기별 게임 수",
+  "no_games_played": "아직 플레이된 게임이 없습니다",
   "dialog_resume_title": "확인",
   "dialog_resume_message": "퍼즐 도전을 다시 시작하시겠습니까?",
   "failed_generate_puzzle_message": "100번 시도 후에도 해결 가능한 퍼즐을 생성하지 못했습니다",

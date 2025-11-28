@@ -1,4 +1,12 @@
-{ "dialog_resume_title": "Xác nhận",
+{
+  "statistics": "Thống kê",
+  "total_games": "Tổng số trò chơi",
+  "average_time": "Thời gian trung bình",
+  "fastest_time": "Thời gian nhanh nhất",
+  "slowest_time": "Thời gian chậm nhất",
+  "games_by_board_size": "Trò chơi theo kích thước bảng",
+  "no_games_played": "Chưa có trò chơi nào được chơi",
+  "dialog_resume_title": "Xác nhận",
   "dialog_resume_message": "Tiếp tục thử thách xếp hình?",
   "failed_generate_puzzle_message": "Không thể tạo trò chơi xếp hình có thể giải sau 100 lần thử",
   "dialog_win_title": "Chúc mừng!",

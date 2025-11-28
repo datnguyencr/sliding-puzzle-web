@@ -1,4 +1,11 @@
 {
+  "statistics": "Estadísticas",
+  "total_games": "Juegos totales",
+  "average_time": "Tiempo promedio",
+  "fastest_time": "Tiempo más rápido",
+  "slowest_time": "Tiempo más lento",
+  "games_by_board_size": "Juegos por tamaño del tablero",
+  "no_games_played": "Aún no se han jugado partidas",
   "dialog_resume_title": "Confirmación",
   "dialog_resume_message": "¿Deseas reanudar tu desafío de rompecabezas?",
   "failed_generate_puzzle_message": "No se pudo generar un rompecabezas solucionable después de 100 intentos",

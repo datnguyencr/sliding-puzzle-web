@@ -1,4 +1,11 @@
 {
+  "statistics": "Статистика",
+  "total_games": "Всего игр",
+  "average_time": "Среднее время",
+  "fastest_time": "Самое быстрое время",
+  "slowest_time": "Самое медленное время",
+  "games_by_board_size": "Игры по размеру доски",
+  "no_games_played": "Игры еще не сыграны",
   "dialog_resume_title": "Подтверждение",
   "dialog_resume_message": "Продолжить головоломку?",
   "failed_generate_puzzle_message": "Не удалось сгенерировать решаемую головоломку после 100 попыток",

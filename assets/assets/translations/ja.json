@@ -1,4 +1,11 @@
 {
+  "statistics": "統計",
+  "total_games": "総ゲーム数",
+  "average_time": "平均時間",
+  "fastest_time": "最速時間",
+  "slowest_time": "最遅時間",
+  "games_by_board_size": "ボードサイズ別のゲーム数",
+  "no_games_played": "まだプレイされたゲームはありません",
   "dialog_resume_title": "確認",
   "dialog_resume_message": "パズルチャレンジを再開しますか？",
   "failed_generate_puzzle_message": "100回試行しても解けるパズルを生成できませんでした",

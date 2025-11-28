@@ -1,4 +1,11 @@
 {
+  "statistics": "Estatísticas",
+  "total_games": "Total de Jogos",
+  "average_time": "Tempo Médio",
+  "fastest_time": "Tempo Mais Rápido",
+  "slowest_time": "Tempo Mais Lento",
+  "games_by_board_size": "Jogos por Tamanho do Tabuleiro",
+  "no_games_played": "Nenhum jogo jogado ainda",
   "dialog_resume_title": "Confirmação",
   "dialog_resume_message": "Deseja retomar o desafio do quebra-cabeça?",
   "failed_generate_puzzle_message": "Falha ao gerar um quebra-cabeça solucionável após 100 tentativas",

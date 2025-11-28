@@ -1,4 +1,11 @@
 {
+  "statistics": "统计",
+  "total_games": "总游戏数",
+  "average_time": "平均时间",
+  "fastest_time": "最快时间",
+  "slowest_time": "最慢时间",
+  "games_by_board_size": "按棋盘大小分类的游戏",
+  "no_games_played": "尚未进行任何游戏",
   "dialog_resume_title": "确认",
   "dialog_resume_message": "要继续你的拼图挑战吗？",
   "failed_generate_puzzle_message": "在尝试 100 次后仍未能生成可解的拼图",
